@@ -1,0 +1,12 @@
+body {
+    background-color: pink;
+}
+.box {
+    background-color: red;
+    border: 2px solid yellow;
+
+}
+p {
+    font-size: 20px;
+    
+}
